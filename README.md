@@ -1,8 +1,9 @@
 # SQL_World_Layoffs
 
-# Dataset used: https://www.kaggle.com/datasets/swaptr/layoffs-2022
+layoffs.csv
+Dataset used: https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
-# data_cleaning.sql
+data_cleaning.sql
 It contains sql code for cleaning of the layoffs.csv where I 
   Created two intermediate Staging tables for data cleaning
   Removed Duplicate Rows 
